@@ -13,4 +13,4 @@ a{
 color:lightyellow;
 }
 
-h2{padding:15px 5px;background:midnightblue url("gradient-bg.svg");background-image:-webkit-gradient(linear,left top, left bottom,from(#18142b),to(midnightblue));background-image:-webkit-linear-gradient(top,#18142b,midnightblue);background-image:-moz-linear-gradient(top,#18142b,midnightblue);background-image:-o-linear-gradient(top,#18142b,midnightblue);background-image:linear-gradient(top,#18142b,midnightblue);}
+h2{margin:15px 0 0 0;padding:15px 5px;background:midnightblue url("gradient-bg.svg");background-image:-webkit-gradient(linear,left top, left bottom,from(#18142b),to(midnightblue));background-image:-webkit-linear-gradient(top,#18142b,midnightblue);background-image:-moz-linear-gradient(top,#18142b,midnightblue);background-image:-o-linear-gradient(top,#18142b,midnightblue);background-image:linear-gradient(top,#18142b,midnightblue);}
