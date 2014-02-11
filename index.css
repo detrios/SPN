@@ -13,31 +13,4 @@ a{
 color:lightyellow;
 }
 
-#gadgetContent{
-	margin-top: 5px;
-	overflow: hidden;
-}
-	
-#amount {
-	padding-left: 19px;
-}
-
-.bars {
-	padding: 3px 1px;
-}
-
-#content {
-	display: none;
-	padding: 3px 0 0 8px;
-}
-#undocked1, #undocked2, #undocked3, #undocked4, #undocked5, #undocked6, #undocked7 {
-	display:none;
-}
-
-#img_load {
-	margin-top: 50px;
-}
-.pub{
-border:5px solid #00c0ff;
-margin-top:2px;
-}
+h2{padding:15px 5px;background:midnightblue url("gradient-bg.svg");background-image:-webkit-gradient(linear,left top, left bottom,from(#18142b),to(midnightblue));background-image:-webkit-linear-gradient(top,#18142b,midnightblue);background-image:-moz-linear-gradient(top,#18142b,midnightblue);background-image:-o-linear-gradient(top,#18142b,midnightblue);background-image:linear-gradient(top,#18142b,midnightblue);}
