@@ -1,5 +1,6 @@
 function onDeviceReady() {
     navigator.splashscreen.hide();
+	window.plugins.videoPlayer.play("http://www.youtube.com/watch?v=E0UV5i5jY50");
 }
 document.addEventListener("deviceready", onDeviceReady, false);
 
@@ -7,7 +8,7 @@ document.addEventListener("deviceready", onDeviceReady, false);
 
 $(document).ready(function (){
 
-window.plugins.videoPlayer.play("http://www.youtube.com/watch?v=E0UV5i5jY50");
+
 
 /*$.ajax({
    type: 'GET',
