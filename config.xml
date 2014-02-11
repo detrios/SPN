@@ -29,6 +29,7 @@
 	<plugin name="SplashScreen" value="org.apache.cordova.SplashScreen"/>
 	<plugin name="VideoPlayer" value="com.phonegap.plugins.video.VideoPlayer"/>
 	<gap:plugin name="org.apache.cordova.splashscreen" />
+	<gap:plugin name="de.appplant.cordova.plugin.local-notification" />
     <icon src="icon.png" />
 	<gap:splash rc="splash.png" />
     <icon gap:density="ldpi" gap:platform="android" src="res/icon/android/icon-36-ldpi.png" />
