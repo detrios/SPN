@@ -2,7 +2,7 @@
 <widget id="com.eckume.SPN" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>SPN</name>
     <description>
-       Star Pirates News, présentation en Français de star citizen par Hawk ( de starpirates.fr )
+       Star Pirates News (SPN), présentation en Français de star citizen par Hawk ( de starpirates.fr )
     </description>
     <author email="developpeurntic@gmail.com" href="http://vps36292.ovh.net/mordu/">
         Detrios
